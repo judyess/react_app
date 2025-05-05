@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .App {
+    width: 99%;
+    margin: 0 auto;
+  }
+  
+  .main-links {
+    width: 95%;
+    margin: 1px;
+    border: 1px solid black
+  }
+  
+  .main-links li {
+    display: inline;
+    margin-right: 5%;
+    font-size: 1.2em;
+  }
+  
+  .header {
+    text-align:center;
+  }
+  
+  .titleSection {
+    text-align: center;
+  }
+  
+  section {
+    margin: 10px;
+  }
+  
+  .formBox {
+    margin-left: 25px;
+  }
+  
+  .numberBox {
+    width: 40px;
+  }
+  
+  .output {
+    float: right;
+  }
+  
+  li{
+    display: inline;
+    margin-right: 10px;
+  }
+  

@@ -2,6 +2,7 @@
 
 # My edits to this auto-generated file
 /MyFiles
+.gitignore
 
 # dependencies
 /node_modules
